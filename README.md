@@ -12,7 +12,7 @@
 ![MQL4](https://img.shields.io/badge/MQL4-FF6F00?style=flat&logo=tradingview&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-FF6F00?style=flat&logo=tradingview&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 - **Programming Languages:** Python, MQL4, MQL5  
 - **Tools & Platforms:** Git, GitHub, MetaTrader  
@@ -20,24 +20,11 @@
 
 ---
 
-## 📂 Projects
-
-- [Project One](project-link) - Brief description of the project  
-- [Project Two](project-link) - Brief description of the project  
-- [Project Three](project-link) - Brief description of the project
-
----
-
 ## 📫 Connect with Me
 
-- ✉️ Email: your.email@example.com  
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio / Website: [Optional Link](#)
-
+- ✉️ Email: alexmercer2021@gmail.com
+- 💬 Telegram: [@Al3X](https://t.me/M_aah_1)  
 ---
 
-## 🌟 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=al3xmercer031&show_icons=true&theme=dark)
 
 
